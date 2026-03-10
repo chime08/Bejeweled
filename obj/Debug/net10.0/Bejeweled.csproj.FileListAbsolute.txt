@@ -1,0 +1,15 @@
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/bin/Debug/net10.0/Bejeweled
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/bin/Debug/net10.0/Bejeweled.deps.json
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/bin/Debug/net10.0/Bejeweled.runtimeconfig.json
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/bin/Debug/net10.0/Bejeweled.dll
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/bin/Debug/net10.0/Bejeweled.pdb
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/Bejeweled.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/Bejeweled.AssemblyInfoInputs.cache
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/Bejeweled.AssemblyInfo.cs
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/Bejeweled.csproj.CoreCompileInputs.cache
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/Bejeweled.dll
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/refint/Bejeweled.dll
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/Bejeweled.pdb
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/Bejeweled.genruntimeconfig.cache
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/ref/Bejeweled.dll
+/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/Debug/net10.0/Bejeweled.sourcelink.json
