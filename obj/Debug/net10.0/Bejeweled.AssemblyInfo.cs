@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bejeweled")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ba58bf8e31bc1aa899a98daf0d25bd0b853a52f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de02e896e0824d8d5f2312a14777cf0ae74f1c2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bejeweled")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bejeweled")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
