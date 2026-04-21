@@ -2,6 +2,7 @@ namespace Bejeweled.Core;
 // {🔴, 🟣, 🔵, 🟡, 🟢 }
 public enum GemType { Red, Purple, Blue, Yellow, Green }
 public class Gem(GemType Type){
+    public GemType getType() => Type;
     public override string ToString() => Type switch// formatting the gem, taking reference from the Eleven game implementation
     { 
         GemType.Red => "🔴",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/Bejeweled.csproj": {}
+    "/Users/chime/Desktop/CSC 350H/Bejeweled/Bejeweled.csproj": {}
   },
   "projects": {
-    "/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/Bejeweled.csproj": {
+    "/Users/chime/Desktop/CSC 350H/Bejeweled/Bejeweled.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/Bejeweled.csproj",
+        "projectUniqueName": "/Users/chime/Desktop/CSC 350H/Bejeweled/Bejeweled.csproj",
         "projectName": "Bejeweled",
-        "projectPath": "/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/Bejeweled.csproj",
+        "projectPath": "/Users/chime/Desktop/CSC 350H/Bejeweled/Bejeweled.csproj",
         "packagesPath": "/Users/chime/.nuget/packages/",
-        "outputPath": "/Users/chime/Desktop/CSC 350H/bejeweled/Bejeweled/obj/",
+        "outputPath": "/Users/chime/Desktop/CSC 350H/Bejeweled/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chime/.nuget/NuGet/NuGet.Config"
